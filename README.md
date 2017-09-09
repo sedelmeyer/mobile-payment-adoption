@@ -15,5 +15,10 @@ My original analysis was conducted using Stata version 11, which has been commit
 ## Data Source
 The data source used for the original analysis is the Federal Reserve Bank of Boston's 2009 Survey of Consumer Payment Choice. While it appears that the original .dta file is no longer available on the BOS FED's website, the original source URL for that data was: http://www.bos.frb.org/economic/cprc/SCPC/index.htm 
 
+## See Also
 
+Gary King and Langche Zeng. 2001. “Logistic Regression in Rare Events Data.” Political Analysis, 9, Pp. 137–163: https://gking.harvard.edu/files/abs/0s-abs.shtml
 
+Michael Tomz, Gary King, & Langche Zeng. "ReLogit: Rare Events Logistic Regression." Journal of Statistical Software [Online], 8.2 (2003): 1 - 27. Web. 9 Sep. 2017: https://www.jstatsoft.org/article/view/v008i02
+
+Federal Reserve Bank of Boston, Survey of Consumer Payment Choice: https://www.bostonfed.org/publications/survey-of-consumer-payment-choice.aspx
