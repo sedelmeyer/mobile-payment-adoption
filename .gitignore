@@ -1,3 +1,10 @@
+# copyrighted FED BOS data files
+*.dta
+*.csv
+
+# copyrighted FED BOS survey documentation
+sources/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
