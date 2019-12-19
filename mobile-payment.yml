@@ -1,0 +1,13 @@
+name: mobile-payment
+channels:
+- defaults
+- conda-forge
+dependencies:
+- matplotlib
+- numpy
+- pandas
+- seaborn
+- scikit-learn
+- jupyter
+- pylint
+
