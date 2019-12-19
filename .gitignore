@@ -1,4 +1,5 @@
 # copyrighted FED BOS data files
+data/*
 *.dta
 *.csv
 
