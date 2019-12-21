@@ -1,10 +1,11 @@
-# copyrighted FED BOS data files
-data/*
-*.dta
-*.csv
+# data files
+data/**
+!data/**/
+!data/**/.gitkeep
 
-# copyrighted FED BOS survey documentation
-sources/
+# documentation files
+sources/**
+!sources/**/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
