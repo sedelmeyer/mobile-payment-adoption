@@ -3,6 +3,11 @@ data/**
 !data/**/
 !data/**/.gitkeep
 
+# saved model files
+models/**
+!models/**/
+!models/**/.gitkeep
+
 # documentation files
 sources/**
 !sources/**/.gitkeep
