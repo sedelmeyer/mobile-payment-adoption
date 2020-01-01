@@ -12,3 +12,6 @@ dependencies:
 - pylint
 - tqdm
 - pymc3=3.8
+- pip
+- pip:
+  - -e .
