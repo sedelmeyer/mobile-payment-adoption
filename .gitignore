@@ -8,6 +8,11 @@ models/**
 !models/**/
 !models/**/.gitkeep
 
+# data files
+reference/**
+!reference/**/
+!reference/**/.gitkeep
+
 # documentation files
 sources/**
 !sources/**/.gitkeep
