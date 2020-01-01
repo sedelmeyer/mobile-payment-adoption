@@ -1,9 +1,21 @@
-# copyrighted FED BOS data files
-*.dta
-*.csv
+# data files
+data/**
+!data/**/
+!data/**/.gitkeep
 
-# copyrighted FED BOS survey documentation
-sources/
+# saved model files
+models/**
+!models/**/
+!models/**/.gitkeep
+
+# data files
+reference/**
+!reference/**/
+!reference/**/.gitkeep
+
+# documentation files
+sources/**
+!sources/**/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -106,3 +118,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# vscode
+.vscode/
