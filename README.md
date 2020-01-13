@@ -1,4 +1,9 @@
 # mobile-payment-adoption
+
+**PLEASE NOTE:** 
+
+This project will no longer be developed and should now be considered deprecated in favor of the newer project repository https://github.com/sedelmeyer/rare-events-analysis.
+
 ## Summary
 
 This repository contains an original statistical analysis I authored in 2012 while in graduate school, titled "[Conditions for Consumer Acceptance of Mobile Payment Methods In the United States](https://github.com/sedelmeyer/mobile-payment-adoption/blob/master/Sedelmeyer_MobilePayment_20120503.pdf)." Please excuse errors and questionable choices regarding factor selection and interpretation. 
